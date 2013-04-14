@@ -22,5 +22,7 @@
 
 * ライセンス
   このプラグインはpenguin2716氏のopen_favstar_of_tweet.rbを大いに利用させていただいています。
+
   https://gist.github.com/penguin2716/3828101
+
   ライセンス表記がないので後日ぺんぎん様に確認します。
