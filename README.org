@@ -4,7 +4,7 @@
   
 * 何に使うの？
   ツイートをTumblrにリブログするときとか。
-
+ 
 * それってMikutterにTumblrプラグイン仕込めばいいのでは？
   そのとおりだけど。
 
@@ -12,9 +12,10 @@
   ……
 
 * インストール方法
-  # cd ~/.mikutter/plugin
-  # git clone git@github.com:boronology/opeb_web_of_tweet.git
-  で完了。
+  : cd ~/.mikutter/plugin
+  : git clone git@github.com:boronology/opeb_web_of_tweet.git
+
+  で完了。Mikutterを起動しましょう。
 
 * 使い方
   ツイートを右クリックして「このツイートをWebで開く」を選択しましょう。
