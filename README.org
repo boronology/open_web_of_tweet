@@ -1,0 +1,25 @@
+
+* これはなんですか？
+  Mikutterで流れてきたツイートをWebで開くためのプラグインです。
+  
+* 何に使うの？
+  ツイートをTumblrにリブログするときとか。
+
+* それってMikutterにTumblrプラグイン仕込めばいいのでは？
+  そのとおりだけど。
+
+* じゃあなんでしないの？
+  ……
+
+* インストール方法
+  # cd ~/.mikutter/plugin
+  # git clone git@github.com:boronology/opeb_web_of_tweet.git
+  で完了。
+
+* 使い方
+  ツイートを右クリックして「このツイートをWebで開く」を選択しましょう。
+
+* ライセンス
+  このプラグインはpenguin2716氏のopen_favstar_of_tweet.rbを大いに利用させていただいています。
+  https://gist.github.com/penguin2716/3828101
+  ライセンス表記がないので後日ぺんぎん様に確認します。
