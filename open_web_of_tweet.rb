@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # 公式Webで開く
 
-Plugin.create :open_favstar_of_tweet do
+Plugin.create :open_web_of_tweet do
 
   command(:open_web_of_tweet,
           name: 'このツイートをWebで開く',
