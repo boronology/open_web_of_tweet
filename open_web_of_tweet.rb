@@ -9,7 +9,7 @@ Plugin.create :open_web_of_tweet do
           visible: true,
           role: :timeline) do |opt|
     opt.messages.each do |m|
-      Gtk::openurl("https://twitter.com/#{m.user.idname}/status/#{m.id}")
+      bg_system(UserConfig[:url_open_command],"https://twitter.com/#{m.user.idname}/status/#{m.id}")
     end
   end
 
