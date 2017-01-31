@@ -3,7 +3,7 @@
 
 Plugin.create :open_web_of_tweet do
     open_command = "xdg-open"
-    if UserConfig.has_key?(:url_open_command)
+    if UserConfig.include?(:url_open_command)
         open_command = UserConfig[:url_open_command]
     end
 
